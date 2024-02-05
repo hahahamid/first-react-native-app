@@ -1,3 +1,8 @@
+# Screenshots 
+
+![alt text](ss/ss1.jpeg)
+
+![alt text](ss/ss2.jpeg)
 # Reanimated example
 
 <p>
