@@ -1,7 +1,5 @@
 # Screenshots 
 
-![alt text](ss/ss1.jpeg | width=300) ![alt text](ss/ss2.jpeg | width=300)
-
 ![alt text](ss/ss1.jpeg) 
 
 ![alt text](ss/ss2.jpeg)
